@@ -50,7 +50,7 @@ main { width: 100%;height: auto;margin: 140px 0 auto; float: none;position: rela
 
 
 main section#google-maps { width: 100%; height: auto; margin: 0 auto; float: none; position: relative; }
-main section#google-maps h4 {  font-size: 1.25em; line-height: 1em; text-align: center; color: #0804f5; letter-spacing: 0.035em; font-weight: 900; padding: 0 0 13px; }
+main section#google-maps h4 {  font-size: 2.25em; line-height: 1em; text-align: center; color: #000; letter-spacing: 0.035em; font-weight: 900; padding: 0 0 13px; }
 main section#google-maps iframe { width: 90vh; height: 50vh; margin: 0 auto; float: none; padding: 0 0 0 50vh; position: relative; }
 
 
